@@ -15,11 +15,3 @@ Welcome to the Sales Insights Power BI Project! This Power BI project is enginee
 - **Critical Indicators:** Defined and displayed critical indicators such as total revenue and sales in a visually compelling format.
 
 - **Technical Proficiency:** Demonstrated technical proficiency in Power BI for effective data visualization and analytics.
-
-## How to Explore
-
-To explore the project locally, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [repository_url]
